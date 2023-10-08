@@ -21,3 +21,6 @@
   cursor: pointer;
   transform: scale(1.02);
 }
+.secondary-button-root-class-name {
+  margin-right: 1%;
+}
