@@ -24,11 +24,11 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .feature-card-root-class-name {
-  margin-left: 130px;
+  margin-left: 0px;
 }
 .feature-card-root-class-name1 {
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 @media(max-width: 767px) {
   .feature-card-container {
